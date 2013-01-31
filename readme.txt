@@ -1,0 +1,1 @@
+This is a simple poker game written in PHP for a project in a database class.
